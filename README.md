@@ -4,10 +4,10 @@ This project is build using CONVOLUTIONAL NEURAL NETWORKS.
 For this project, a user defined dataset is used.
 
 TOOLS USED 
-        TensorFlow:
-        Open CV
-        Numpy
-        cvzone
+      >>  TensorFlow:
+      >>  Open CV
+      >>  Numpy
+      >>  cvzone
         
  
 
