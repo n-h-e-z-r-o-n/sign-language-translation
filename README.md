@@ -5,8 +5,11 @@ For this project, a user defined dataset is used.
 
 TOOLS USED 
 >>  TensorFlow:
->>  Open CV
+>>  
+>>  >>   Open CV
+>>  >>   
 >>   Numpy
+>>   
 >>   cvzone
         
  
