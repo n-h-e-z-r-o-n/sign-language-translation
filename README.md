@@ -6,11 +6,11 @@ For this project, a user defined dataset is used.
 TOOLS USED 
 >>  TensorFlow:
 >>  
->>  >>   Open CV
->>  >>   
->>   Numpy
+>>  Open CV
+>>    
+>>  Numpy
 >>   
->>   cvzone
+>>  cvzone
         
  
 
